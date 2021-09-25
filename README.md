@@ -7,7 +7,7 @@
 -->
 - 🌱 I’m currently learning Backend Development and Frontent Development as well.
 - 👯 I’m looking to collaborate with Fullstack Web .
-- 💬 Ask me about Frontend and Android Development.
+- 💬 Ask me about Frontend and Backend Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - <img align="right" alt="GIF" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/goku-learning-react-2.png" width="320px" height="400px" />
