@@ -5,14 +5,14 @@
 
 
 -->
-- 🌱 I’m currently learning Backend Development and Frontent Development as well.
-- 👯 I’m looking to collaborate with Fullstack Web .
+- 🌱 I’m a Backend Development and Frontent Development as well.
+- 👯 I’m looking to collaborate with Fullstack Dev .
 - 💬 Ask me about Frontend and Backend Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - <img align="right" alt="GIF" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/goku-learning-react-2.png" width="320px" height="400px" />
 
-- 🔭 I’m currently working on Frontend Web Development.
+- 🔭 I work on both Frontend and Backend Development.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=VinayWritesCode.VinayWritesCode)
 
