@@ -5,7 +5,7 @@
 
 
 -->
-- 🌱 I’m a Backend Development and Frontent Development as well.
+- 🌱 I’m a Backend Developer and Frontent Developer as well.
 - 👯 I’m looking to collaborate with Fullstack Dev .
 - 💬 Ask me about Frontend and Backend Development.
 - 😄 Pronouns: He/Him
