@@ -85,7 +85,7 @@ Languages and Tools🛠:
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinayWritesCode&repo=NewsDaily&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/VinayWritesCode/MyNoteBook2">
+<a href="https://github.com/tanmaybapna/Investment_Platform">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaybapna&repo=Investment_Platform&theme=tokyonight" />
 </a>
 
