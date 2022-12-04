@@ -11,7 +11,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - <img align="right" alt="GIF" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/goku-learning-react-2.png" width="320px" height="400px" />
-
 - 🔭 I work on both Frontend and Backend Development.
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=VinayWritesCode.VinayWritesCode)
@@ -87,7 +86,7 @@ Languages and Tools🛠:
 </a>
 
 <a href="https://github.com/VinayWritesCode/MyNoteBook2">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VinayWritesCode&repo=MyNoteBook&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tanmaybapna&repo=Investment_Platform&theme=tokyonight" />
 </a>
 
 
